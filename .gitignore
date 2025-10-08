@@ -1,0 +1,30 @@
+# Python virtual environment
+venv/
+env/
+*.venv/
+
+# Bytecode files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Environment variables
+.env
+
+# Streamlit secrets for deployment (do NOT ignore if deploying)
+# Uncomment the next line if you want secrets to be private and not pushed to Git
+# .streamlit/secrets.toml
+
+# IDE files
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
