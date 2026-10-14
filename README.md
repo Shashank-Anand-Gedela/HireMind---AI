@@ -24,7 +24,7 @@ The AI-Powered Interview Assistant is an intelligent web application designed to
 - **PDF Handling:** PyPDF2 – extract text from resumes for analysis
 
 ---
-<img width="1919" height="967" alt="Image" src="D:\Projects\HireMind\HireMind - Landing Page.png" />
+<img width="100%" alt="HireMind Landing Page" src="./HireMind%20-%20Landing%20Page.png" />
 
 ---
 ## 🚀 Live Project
@@ -49,8 +49,8 @@ The AI-Powered Interview Assistant is an intelligent web application designed to
 📊 **Output:**  
 Get a detailed **resume score breakdown** showing your alignment with the selected job role.
 
-<p align="center">
-  <img width="300" height="500" alt="Resume Score" src="D:\Projects\HireMind\HireMind 002.png"/>
+  <p align="center">
+  <img width="300" alt="Resume Score" src="./HireMind%20002.png" />
 </p>
 
 ---
@@ -68,7 +68,7 @@ Get a detailed **resume score breakdown** showing your alignment with the select
 - ⚠️ **Weaknesses:** Missing measurable outcomes, lack of domain keywords  
 
 <p align="center">
-  <img width="600" height="300" alt="Feedback" src="D:\Projects\HireMind\HireMind 004.png" />
+  <img width="600" alt="Resume Feedback" src="./HireMind%20004.png" />
 </p>
 
 ---
@@ -88,7 +88,7 @@ Get a detailed **resume score breakdown** showing your alignment with the select
 
 <p align="center">
   <img width="400" height="218" alt="Interview Ques" src="https://github.com/user-attachments/assets/a679c862-bd35-4858-998f-c82cd63283ba" />
-  <img width="400" height="320" alt="Interview Feedback" src="D:\Projects\HireMind\HireMind 005.png" />
+  <img width="400" alt="Interview Feedback" src="./HireMind%20005.png" />
 </p>
 
 ---
