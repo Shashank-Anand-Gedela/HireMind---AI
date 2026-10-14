@@ -24,12 +24,12 @@ The AI-Powered Interview Assistant is an intelligent web application designed to
 - **PDF Handling:** PyPDF2 – extract text from resumes for analysis
 
 ---
-<img width="1919" height="967" alt="Image" src="https://github.com/user-attachments/assets/333e5969-d22f-4ed4-adea-160ef8af8b13" />
+<img width="1919" height="967" alt="Image" src="D:\Projects\HireMind\HireMind - Landing Page.png" />
 
 ---
 ## 🚀 Live Project
 
-🔗 **Explore Here:** [AI-Powered Interview Assistant — Live Demo](https://hire-mind.streamlit.app/)
+🔗 **Explore Here:** [AI-Powered Interview Assistant — Live Demo](https://hiremind-ai.streamlit.app/)
 
 ---
 
@@ -50,7 +50,7 @@ The AI-Powered Interview Assistant is an intelligent web application designed to
 Get a detailed **resume score breakdown** showing your alignment with the selected job role.
 
 <p align="center">
-  <img width="300" height="500" alt="Resume Score" src="https://github.com/user-attachments/assets/fc94c4e5-5970-46a4-9797-6a17f44183db"/>
+  <img width="300" height="500" alt="Resume Score" src="D:\Projects\HireMind\HireMind 002.png"/>
 </p>
 
 ---
@@ -68,7 +68,7 @@ Get a detailed **resume score breakdown** showing your alignment with the select
 - ⚠️ **Weaknesses:** Missing measurable outcomes, lack of domain keywords  
 
 <p align="center">
-  <img width="600" height="300" alt="Feedback" src="https://github.com/user-attachments/assets/39d168c5-21b1-4ccf-abdd-cd288ff98436" />
+  <img width="600" height="300" alt="Feedback" src="D:\Projects\HireMind\HireMind 004.png" />
 </p>
 
 ---
@@ -88,7 +88,7 @@ Get a detailed **resume score breakdown** showing your alignment with the select
 
 <p align="center">
   <img width="400" height="218" alt="Interview Ques" src="https://github.com/user-attachments/assets/a679c862-bd35-4858-998f-c82cd63283ba" />
-  <img width="400" height="320" alt="Interview Feedback" src="https://github.com/user-attachments/assets/13f4b106-89e1-4d2a-a39b-51998bded341" />
+  <img width="400" height="320" alt="Interview Feedback" src="D:\Projects\HireMind\HireMind 005.png" />
 </p>
 
 ---
